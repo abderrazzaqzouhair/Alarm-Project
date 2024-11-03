@@ -13,7 +13,7 @@ A simple alarm application built for Android that allows users to set, schedule,
 
 ## Screenshots
 
-![Alarm Screen]((image/Screenshot_20241103-180954.png)
+![Alarm Screen](image/Screenshot_20241103-180954.png)
 
 ## Getting Started
 
